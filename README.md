@@ -1,8 +1,6 @@
 # Project Documentation 
 
-*Project requirements*
-
-### Tech stack required
+### Tech stack required(*Project requirements*)
 - **Python 3.x**
 - Django 5.x (latest stable)
 - `SQLite`(default Django DB)
